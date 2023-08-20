@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Orlando Aguilar!  
-
+A highly committed student with a desire to learn, start working, acquire new skills, and gain professional experience.
 
 <br>
 <br>
