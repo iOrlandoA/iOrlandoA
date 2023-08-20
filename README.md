@@ -4,17 +4,18 @@
 <br>
 <br>
 
-##Tecnologies
+## Tecnologies
+<br>
 ![POSTGRESS](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+<br>
 ## Languages:
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=E51F24&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
+<br>
 ## How to reach me:
 
 <a href="mailto:orlandoaguilarperalta@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=000000" /></a>
