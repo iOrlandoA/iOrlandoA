@@ -5,10 +5,10 @@
 <br>
 
 ## Tecnologies
-<br>
+
 ![POSTGRESS](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-<br>
+
 ## Languages:
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=E51F24&labelColor=000000)
