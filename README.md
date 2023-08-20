@@ -15,23 +15,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<br>
 ## How to reach me:
 
 <a href="mailto:orlandoaguilarperalta@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=000000" /></a>
 
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+ ## Most Used Languages
   <img align="center" alt="Orlando's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOrlandoA&theme=blue-green&layout=compact" />
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+# GitHub Stats
 
   <img align="left" alt="MaikolSoro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iOrlandoA&theme=blue-green"/>
 
-</details>
+
 
 
 
