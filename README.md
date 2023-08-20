@@ -1,4 +1,4 @@
-## Hey 👋, I'm Orlanod Aguilar!  
+## Hey 👋, I'm Orlando Aguilar!  
 
 
 <br>
