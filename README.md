@@ -14,6 +14,8 @@ A highly committed student with a desire to learn, start working, acquire new sk
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=E51F24&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=212121&labelColor=212121)
+![RubyOnRails](https://img.shields.io/static/v1?style=for-the-badge&logo=ruby&message=RubyOnRails&label=&color=CF302B&labelColor=CF302B)
 
 ## How to reach me:
 
